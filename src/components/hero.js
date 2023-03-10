@@ -1,6 +1,6 @@
 import React from "react"
 import Menu from "../components/menu"
-import "../components/main.css"
+import "./main.css"
 
 function hero() {
   return (
