@@ -29,12 +29,7 @@ function Seo({ description, title, children }) {
   return (
     <>
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
-      <link
-        rel="stylesheet"
-        type="text/css"
-        href="/styles/globals.css"
-        as="style"
-      />
+
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
       <link
