@@ -7,7 +7,6 @@ import Specialists from "../components/specialists"
 import Reviews from "../components/reviews"
 import Newsletter from "../components/newsletter"
 import Footer from "../components/footer"
-import "../styles/globals.css"
 
 function Index() {
   return (
