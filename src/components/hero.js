@@ -1,5 +1,6 @@
 import React from "react"
 import Menu from "../components/menu"
+import "../components/styles/globals.css"
 
 function hero() {
   return (
